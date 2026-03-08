@@ -1,1 +1,0 @@
-# everyonesocreative.github.io
