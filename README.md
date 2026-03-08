@@ -1,34 +1,37 @@
-# Hi, I'm Felicia Wahls 👋
+# Felicia Wahls Portfolio Website
 
-🎓 Master of Science in Data Analytics – Eastern University (Graduating May 2026)
+This repository contains the source code for my personal portfolio website.
 
-I am currently expanding my skills in data engineering, machine learning, and automation while building projects and documenting my learning journey.
+The site is hosted using GitHub Pages and will showcase my work in:
 
-## Current Focus
-- Python for data analysis
-- SQL and database querying
-- Data engineering concepts
-- Machine learning fundamentals
-- Automation workflows
+* Data Analytics
+* Data Engineering
+* Machine Learning
+* Automation Tools
+* Data Projects
 
-## Skills
-- SQL
-- Python (learning)
-- Data Analysis
-- Statistical Modeling
-- AI Workflow Evaluation
-- Automation Testing
+## About Me
 
-## Current Projects
-Projects will be added here as I build them.
+I am currently completing a **Master of Science in Data Analytics at Eastern University (Graduating May 2026)**.
 
-## Learning Journey
-I am currently building a portfolio of projects in:
-- Python
-- SQL
-- Data Engineering
-- Machine Learning
+My focus areas include:
 
-## Connect With Me
-LinkedIn: Coming Soon! 
-Portfolio Website: Coming soon
+* Python for data analysis
+* SQL and database querying
+* Data engineering concepts
+* Machine learning fundamentals
+* Automation workflows
+
+## Purpose of This Site
+
+This website will serve as a portfolio where I will publish:
+
+* Data analysis projects
+* Machine learning experiments
+* automation tools and scripts
+* technical write-ups of projects I build
+
+## Status
+
+🚧 Currently under construction.
+Projects and portfolio content will be added as I continue building my skills.
